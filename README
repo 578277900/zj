@@ -2,3 +2,9 @@
 
 # 第一个 github 项目
 # 手写商城
+
+# 学会使用了 vim 编辑
+# 学会了将本地代码 push 到 github 上
+-- git add .
+-- git commit
+-- git push -u origin master
